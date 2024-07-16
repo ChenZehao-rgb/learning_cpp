@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chen/learning_cpp/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/hello.dir/main.cpp.o -c /home/chen/learning_cpp/main.cpp",
+  "file": "/home/chen/learning_cpp/main.cpp"
+}
+]
